@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "208958429506",
+    "firebase_url": "https://uiucforum.firebaseio.com",
+    "project_id": "uiucforum",
+    "storage_bucket": "uiucforum.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:208958429506:android:a64242fd23ff374e",
+        "android_client_info": {
+          "package_name": "com.example.amelia.uiucforum"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "208958429506-lutufhq4j33455q36gfkaacmr5b28s2t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrN2ZUBOXEyFlZWExI_X7yBpEaRPBwVQk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
